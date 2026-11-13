@@ -14,9 +14,10 @@ automatizada com **Robot Framework + Python** integrada à esteira de CI/CD.
 - Times ágeis com **Jira** e **Azure DevOps**; IA no dia a dia de QA (**Claude Code**, **Cursor**)
 
 ### Resultado que mais me orgulha
-Regressão de um sistema de reservas de uma grande locadora: **62 cenários E2E em 17 suítes**,
-de **6 h manuais para ~30 min** no pipeline, e o Robocop de **967 para 34** apontamentos.
-A arquitetura está replicada, sem código do cliente, em
+Regressão automatizada da **Central de Reservas da Unidas** (pela Blite Tecnologia):
+**62 cenários E2E em 17 suítes**, de **6 h manuais para ~30 min** no pipeline, e o Robocop de
+**967 para 34** apontamentos. A réplica, com a mesma arquitetura e o mesmo catálogo de cenários
+(sem código nem dados da Unidas), está em
 [robot-reservas-e2e](https://github.com/JardelQuaresma7/robot-reservas-e2e).
 
 ### Stack
@@ -43,4 +44,4 @@ A arquitetura está replicada, sem código do cliente, em
 
 **EN —** Senior QA Engineer with 7 years of experience. Main stack: Robot Framework + Python, plus
 Cypress, Playwright, Postman, JMeter and k6, running in Azure Pipelines and GitHub Actions.
-Highlight: reservation-system regression with 62 E2E scenarios, cut from 6 h to ~30 min.
+Highlight: regression of the Unidas Reservation Center with 62 E2E scenarios, cut from 6 h to ~30 min.
