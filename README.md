@@ -35,7 +35,7 @@ A arquitetura está replicada, sem código do cliente, em
 ### Projetos em destaque
 | Projeto | Stack | O que mostra |
 |---|---|---|
-| [robot-reservas-e2e](https://github.com/JardelQuaresma7/robot-reservas-e2e) | Robot Framework + Python + GitHub Actions | E2E de interface e API, gate de saúde, pabot, rerun, Robocop e relatório no Pages |
+| [robot-reservas-e2e](https://github.com/JardelQuaresma7/robot-reservas-e2e) | Robot Framework + Python + GitHub Actions | 69 cenários de uma central de reservas de locadora (PF, PJ, edição, consulta, cancelamento), pabot, rerun, Robocop e relatório no Pages |
 | [teste-tec-Inmetrics](https://github.com/JardelQuaresma7/teste-tec-Inmetrics) | Cypress + Cucumber | E2E em BDD e testes de API |
 | [Testes-Manuais-Inmetrics](https://github.com/JardelQuaresma7/Testes-Manuais-Inmetrics) | Gherkin + evidências | Plano de testes, cenários e evidência de execução |
 
